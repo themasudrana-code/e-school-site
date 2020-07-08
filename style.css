@@ -97,9 +97,6 @@ a.navbar-brand {
     max-width: 200px;
 }
 
-
-
-
 /* banner section */
 .banner-content p{
     max-width: 403px;
@@ -209,9 +206,9 @@ footer ul {
 }
 footer li{
     font-size: 24px;
-    font-family: Poppins;
+    font-family: "Poppins";
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
     line-height: 30px;
-}
+ }
