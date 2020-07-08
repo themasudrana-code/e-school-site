@@ -49,6 +49,12 @@ a:hover {
     text-decoration: none;
 }
 
+@media only screen and (max-width: 768px) {
+    .section-padding{
+        padding: 23px 0;
+    }
+  }
+
 /* section background */
 section.header-section {
     background: #F0FFF0;
