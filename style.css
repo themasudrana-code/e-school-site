@@ -212,3 +212,24 @@ footer li{
     font-size: 18px;
     line-height: 30px;
  }
+
+
+ @media only screen and (max-width: 768px) {
+    .card{
+        margin-bottom: 10px;
+    }
+    .testimonial-flex {
+        width: 100%;
+        flex-direction: column;
+    }
+    .testymonial-avater .img-fluid {
+        max-width: 60%;
+        margin: 10px auto;
+    }
+    .testymonial-avater {
+        text-align: center;
+    }
+    .testimonial-text {
+        text-align: center;
+    }
+  }
